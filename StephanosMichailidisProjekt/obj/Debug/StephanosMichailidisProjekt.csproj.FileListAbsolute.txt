@@ -1,0 +1,16 @@
+C:\Users\Kuba\Desktop\Škola\Programováni\StephanosMichailidisProjekt\obj\Debug\StephanosMichailidisProjekt.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\Škola\Programováni\StephanosMichailidisProjekt\obj\Debug\StephanosMichailidisProjekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kuba\Desktop\Škola\Programováni\StephanosMichailidisProjekt\obj\Debug\StephanosMichailidisProjekt.AdminMenu.resources
+C:\Users\Kuba\Desktop\Škola\Programováni\StephanosMichailidisProjekt\obj\Debug\StephanosMichailidisProjekt.editUzivatel.resources
+C:\Users\Kuba\Desktop\Škola\Programováni\StephanosMichailidisProjekt\obj\Debug\StephanosMichailidisProjekt.Login.resources
+C:\Users\Kuba\Desktop\Škola\Programováni\StephanosMichailidisProjekt\obj\Debug\StephanosMichailidisProjekt.Properties.Resources.resources
+C:\Users\Kuba\Desktop\Škola\Programováni\StephanosMichailidisProjekt\obj\Debug\StephanosMichailidisProjekt.zakazky.resources
+C:\Users\Kuba\Desktop\Škola\Programováni\StephanosMichailidisProjekt\obj\Debug\StephanosMichailidisProjekt.ZamestnanecTab.resources
+C:\Users\Kuba\Desktop\Škola\Programováni\StephanosMichailidisProjekt\obj\Debug\StephanosMichailidisProjekt.Zaměstnanci.resources
+C:\Users\Kuba\Desktop\Škola\Programováni\StephanosMichailidisProjekt\obj\Debug\StephanosMichailidisProjekt.csproj.GenerateResource.cache
+C:\Users\Kuba\Desktop\Škola\Programováni\StephanosMichailidisProjekt\obj\Debug\StephanosMichailidisProjekt.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\Škola\Programováni\StephanosMichailidisProjekt\bin\Debug\StephanosMichailidisProjekt.exe.config
+C:\Users\Kuba\Desktop\Škola\Programováni\StephanosMichailidisProjekt\bin\Debug\StephanosMichailidisProjekt.exe
+C:\Users\Kuba\Desktop\Škola\Programováni\StephanosMichailidisProjekt\bin\Debug\StephanosMichailidisProjekt.pdb
+C:\Users\Kuba\Desktop\Škola\Programováni\StephanosMichailidisProjekt\obj\Debug\StephanosMichailidisProjekt.exe
+C:\Users\Kuba\Desktop\Škola\Programováni\StephanosMichailidisProjekt\obj\Debug\StephanosMichailidisProjekt.pdb
